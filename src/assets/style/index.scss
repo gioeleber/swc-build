@@ -1,0 +1,10 @@
+@import "normalize";
+@import "reset";
+@import "components/header";
+@import "components/footer";
+
+.wrapper {
+  padding: 4rem 1.5rem;
+  width: 50rem;
+  margin-inline: auto;
+}
